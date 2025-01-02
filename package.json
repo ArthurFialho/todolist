@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+=======
   "name": "todo",
   "private": true,
   "version": "0.0.0",
@@ -24,5 +28,6 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
+>>>>>>> ecf9667e596389090172a68fe9dcf0191392cefa
   }
 }
